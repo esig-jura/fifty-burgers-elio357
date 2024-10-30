@@ -1,4 +1,4 @@
-# Exercice Fifty Burgers
+# Exercice Fifty Burgers.
 
   * **Exemple de solution :** http://kode.ch/fifty-burgers/
   * **Code de la solution :** https://github.com/divtec-cejef/101-SFA-EXE-Burger/tree/solution
